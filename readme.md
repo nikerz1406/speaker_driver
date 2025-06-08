@@ -25,7 +25,7 @@ Dự án này triển khai một mô-đun loa thông minh sử dụng chip ESP32
 ## Luồng kết đăng ký loa IOT lên server
 
 1. **Khởi động thiết bị:** Đèn báo xanh, âm thanh báo hiệu bluetooth hoạt động
-2. **kết nối điện thoại** Kết nối loa với điện thoại với điện thoại, âm thanh báo kết nối thành công
+2. **Kết nối điện thoại** Kết nối loa với điện thoại, âm thanh báo kết nối thành công
 3. **Kết nối wifi** điện thoại cấu hình mạng wifi cho loa thông qua bluetooth, âm thanh báo kết nối mạng thành công
 4. **Giao tiếp với cloud:**
    - Thiết bị gửi dữ liệu trạng thái (âm lượng, trạng thái nguồn, v.v.) lên máy chủ đám mây qua MQTT hoặc HTTPS.
